@@ -46,10 +46,10 @@
  */
 
 	// Update these variables with the correct values from a new *Private* app in Shopify
-	$api_key = 'e5a7d4003acb3a49fcd3f031e687eef2';
-	$password = '4168cc119442c42a587008d0e191ee1a';
-	$store_url = 'roux-maison.myshopify.com';
-	$theme_id = '159188618';
+	$api_key = 'xxx';
+	$password = 'xxx';
+	$store_url = 'xxx.myshopify.com';
+	$theme_id = 'xxx';
 
 	// get_data retrives data with the API
 	function get_data($request, $api_key, $password, $store_url, $theme_id)
